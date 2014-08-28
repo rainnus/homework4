@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="ODBC - Driver={Microsoft Access Driver (*.mdb, *.accdb)}" uuid="ab67894d-cf69-40ab-8e5a-71853cf11381">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
